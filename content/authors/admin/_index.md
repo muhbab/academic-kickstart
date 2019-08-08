@@ -1,6 +1,6 @@
 ---
 # Display name
-name: M B
+name: Muhittin Babaoglu
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: Middle East Technical University
-  url: ""
+  url: "http://www.metu.edu.tr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -53,7 +53,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/muhbab
+  link: https://github.com/muhittinb
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
