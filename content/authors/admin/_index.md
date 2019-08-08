@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm about to completed my M.S. in Graduate School of Natural and Applied Sciences, within Civil Engineering Department at Middle East Technical University in 2019, where I also earned my B.S. in Civil Engineering from Middle East Technical University, Turkey in 2015.
