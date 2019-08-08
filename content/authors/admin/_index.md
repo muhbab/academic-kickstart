@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Geomechanics
 - Porous Materials
 - Geotechnical Engineering
-- Geomechanics
 - Computational Mechanics
 
 education:
