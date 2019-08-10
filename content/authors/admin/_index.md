@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I'm about to completed my M.S. in [Graduate School of Natural and Applied Sciences](https://fbe.metu.edu.tr/en), within [Civil Engineering Department](http://ce.metu.edu.tr/) at [Middle East Technical University](http://www.metu.edu.tr/) in 2019, where I also earned my B.S. in Civil Engineering from Middle East Technical University, Turkey in 2015.
+I'm about to completed my M.S. in [Graduate School of Natural and Applied Sciences](https://fbe.metu.edu.tr/en), at [Civil Engineering Department](http://ce.metu.edu.tr/) of [Middle East Technical University](http://www.metu.edu.tr/) in 2019, where I also earned my B.S. in Civil Engineering from Middle East Technical University in 2015.
