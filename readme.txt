@@ -1,0 +1,1 @@
+to edit footer go to: layouts-partials-site_footer.html
