@@ -18,7 +18,7 @@ organizations:
   url: "http://www.metu.edu.tr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: research interests: Geomechanics, Geotechnical Engineering and Computational Mechanics.
+bio: research interests Geomechanics, Geotechnical Engineering and Computational Mechanics.
 
 interests:
 - Geomechanics
