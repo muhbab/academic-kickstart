@@ -1,5 +1,5 @@
 ---
-title: plot jupyter
+title: Better graphs for academic studies with matplotlib
 author: Muhittin Babaoglu
 date: ''
 slug: 
@@ -257,5 +257,5 @@ plt.show()
 ```
 
 
-![png](plot_files/plot_2_0.png)
+![png](static/img/plot1.png)
 
