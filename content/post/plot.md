@@ -257,5 +257,5 @@ plt.show()
 ```
 
 
-![png](static/img/plot1.png)
+![plot1](img/plot1.png)
 
