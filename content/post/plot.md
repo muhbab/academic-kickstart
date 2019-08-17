@@ -1,4 +1,15 @@
-
+---
+title: plot jupyter
+author: Muhittin Babaoglu
+date: ''
+slug: 
+categories: ["scientific figures", "matplotlib"]
+tags: [""]
+math: true
+header:
+  caption: ''
+  image: ''
+---
 
 ```python
 import numpy as np
