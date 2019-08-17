@@ -10,6 +10,7 @@ header:
   caption: ''
   image: ''
 ---
+To print elegant looking figures for scientific studies, matplotlib offers numerious tools to enhanced plots. 
 
 ```python
 import numpy as np
@@ -257,5 +258,4 @@ plt.show()
 ```
 
 
-![plot1](img/plot1.png)
-
+![plot1](../../img/plot1.png)
