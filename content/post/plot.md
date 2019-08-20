@@ -10,7 +10,7 @@ header:
   caption: ''
   image: ''
 ---
-To print elegant looking figures for scientific studies, matplotlib offers numerious tools to enhanced plots. 
+Many research papers suffer from lack of neat figures to convey their key points. In order to elevate emphasis of study, vigorous and tidy illustrations are needed to employed. To print elegant looking figures for scientific studies, matplotlib offers numerious tools to enhance figures. Once the template of plots are created, every figure that are plotted with matplotlib will obey the template you've created. This is fast and well-structured approach to produce necessary figures for your study.
 
 ```python
 import numpy as np
