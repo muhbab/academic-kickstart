@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 
 df1 = pd.read_csv('x-y.csv', sep=',', header=None, names=["x", "y"]) #to get exemplary data set from an excel document
 
-data_sets = [df1]
+data_sets = [df1] #if you have more than one dataset to print in different figure
 
 for item in data_sets:
     item["$x^2$"]=item["x"]**2 #create another data set which is square of x
