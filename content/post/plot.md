@@ -235,7 +235,7 @@ df1 # print df1 dataset
 
 
 ```python
-result1 = plt.figure(figsize=(10,10))
+result1 = plt.figure(figsize=(10,10)) # determine size of figure
 
 result1 = plt.plot(df1["x"], df1["y"], 'b-', label='data', linewidth=1, marker='o')
 result1 = plt.plot(df1["x"], df1["$x^2$"], 'r-', label='$x^2$', linewidth=1, linestyle='--')
