@@ -1,4 +1,4 @@
-to edit footer go to: layouts-partials-site_footer.html
+to edit footer go change: layouts-partials-site_footer.html
 
 *publish jupyter notebook: 
 *convert notebook to markdown with anaconda:
