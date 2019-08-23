@@ -1,1 +1,1 @@
-This is my personal website that is build on [Academic Kickstart](https://sourcethemes.com/academic/) template.
+This is my personal website that is built on [Academic Kickstart](https://sourcethemes.com/academic/) template.
