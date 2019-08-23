@@ -17,19 +17,19 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df1 = pd.read_csv('x-y.csv', sep=',', header=None, names=["x", "y"]) # to get exemplary data set from an excel document
+df1 = pd.read_csv('x-y.csv', sep=',', header=None, names=["x", "y"]) #to get exemplary data set from an excel document
 
 data_sets = [df1]
 
 for item in data_sets:
-    item["$x^2$"]=item["x"]**2 # to create another data set which is square of x
+    item["$x^2$"]=item["x"]**2 #create another data set which is square of x
 
 data_sets = [df1]
 ```
 
 
 ```python
-df1 # print df1 dataset
+df1 #print df1 dataset
 ```
 
 
@@ -235,7 +235,7 @@ df1 # print df1 dataset
 
 
 ```python
-result1 = plt.figure(figsize=(10,10)) # determine size of figure
+result1 = plt.figure(figsize=(10,10)) #determine size of figure
 
 result1 = plt.plot(df1["x"], df1["y"], 'b-', label='data', linewidth=1, marker='o')
 result1 = plt.plot(df1["x"], df1["$x^2$"], 'r-', label='$x^2$', linewidth=1, linestyle='--')
@@ -248,10 +248,10 @@ plt.title("$x^2$ vs. data", fontsize=14)
 
 plt.xlabel('x',fontsize=14)
 plt.ylabel('y',fontsize=14)
-plt.grid(False) # remove grid in the plot
+plt.grid(False) #remove grid in the plot
 plt.legend(fontsize=14)
 
-#plt.xscale('log') # convert x-axis to log scale
+#plt.xscale('log') #convert x-axis to log scale
 #plt.yscale('log')
 
 plt.show()
