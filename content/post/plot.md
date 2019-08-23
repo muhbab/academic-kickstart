@@ -252,7 +252,7 @@ plt.grid(False) #remove grid in the plot
 plt.legend(fontsize=14)
 
 #plt.xscale('log') #convert x-axis to log scale
-#plt.yscale('log')
+#plt.yscale('log') #convert y-axis to log scale
 
 plt.show()
 ```

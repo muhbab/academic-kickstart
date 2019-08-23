@@ -6,3 +6,5 @@ to edit footer go change: layouts-partials-site_footer.html
 *put images related to that post into my_website\static\img
 *arrange code in notebook for images as:
     ![plot1](../../img/plot1.png)
+
+*netlify hata verirse git submodule update --force --recursive --init --remote
