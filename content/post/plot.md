@@ -240,9 +240,9 @@ result1 = plt.figure(figsize=(10,10)) #determine size of figure
 result1 = plt.plot(df1["x"], df1["y"], 'b-', label='data', linewidth=1, marker='o')
 result1 = plt.plot(df1["x"], df1["$x^2$"], 'r-', label='$x^2$', linewidth=1, linestyle='--')
 
-plt.rc('font', family='Arial')
-plt.rc('xtick',labelsize=14) #for the values on the axis
-plt.rc('ytick',labelsize=14)
+plt.rc('font', family='Arial') #font of entire plot
+plt.rc('xtick',labelsize=14) #size of values on the x-axis
+plt.rc('ytick',labelsize=14) #size of values on the y-axis
 
 plt.title("$x^2$ vs. data", fontsize=14)
 
