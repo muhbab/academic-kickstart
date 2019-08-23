@@ -10,26 +10,26 @@ header:
   caption: ''
   image: ''
 ---
-Many research papers suffer from lack of neat figures to convey their key points. In order to elevate emphasis of study, vigorous and tidy illustrations are needed to employed. To print elegant looking figures for scientific studies, matplotlib offers numerious tools to enhance figures. Once the template of plots are created, every figure that are plotted with matplotlib will obey the template you've created. This is fast and well-structured approach to produce necessary figures for your study.
+Many research papers suffer from lack of neat figures to convey their key points. In order to elevate emphasis of study, vigorous and tidy illustrations are needed to employed. To print elegant looking figures for scientific studies, matplotlib offers numerious tools to enhance figures. Once the template of plots are created, every figure that is plotted with matplotlib will obey the template you've created. This is fast and well-structured approach to produce necessary figures for your study.
 
 ```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df1 = pd.read_csv('x-y.csv', sep=',', header=None, names=["x", "y"])
+df1 = pd.read_csv('x-y.csv', sep=',', header=None, names=["x", "y"]) # to get exemplary data set from an excel document
 
 data_sets = [df1]
 
 for item in data_sets:
-    item["$x^2$"]=item["x"]**2
+    item["$x^2$"]=item["x"]**2 # to create another data set which is square of x
 
 data_sets = [df1]
 ```
 
 
 ```python
-df1
+df1 # print df1 dataset
 ```
 
 
@@ -248,10 +248,10 @@ plt.title("$x^2$ vs. data", fontsize=14)
 
 plt.xlabel('x',fontsize=14)
 plt.ylabel('y',fontsize=14)
-plt.grid(False)
+plt.grid(False) # remove grid in the plot
 plt.legend(fontsize=14)
 
-#plt.xscale('log')
+#plt.xscale('log') # convert x-axis to log scale
 #plt.yscale('log')
 
 plt.show()
