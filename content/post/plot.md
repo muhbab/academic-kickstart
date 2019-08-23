@@ -244,7 +244,7 @@ plt.rc('font', family='Arial') #font of entire plot
 plt.rc('xtick',labelsize=14) #size of values on the x-axis
 plt.rc('ytick',labelsize=14) #size of values on the y-axis
 
-plt.title("$x^2$ vs. data", fontsize=14)
+plt.title("$x^2$ vs. data", fontsize=14) #title and title size 
 
 plt.xlabel('x',fontsize=14)
 plt.ylabel('y',fontsize=14)
