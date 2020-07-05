@@ -33,7 +33,7 @@ education:
  #   year: 2012
   - course: M.S. in Civil Engineering
     institution: Middle East Technical University
-    year: 2019
+    year: 2020
   - course: B.S. in Civil Engineering
     institution: Middle East Technical University
     year: 2015
