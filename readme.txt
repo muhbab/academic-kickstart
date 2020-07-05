@@ -8,4 +8,3 @@ to edit footer go change: layouts-partials-site_footer.html
     ![plot1](../../img/plot1.png)
 
 *netlify hata verirse git submodule update --force --recursive --init --remote
-*deneme-1-2-3
