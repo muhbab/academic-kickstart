@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I completed my M.S. in [Graduate School of Natural and Applied Sciences](https://fbe.metu.edu.tr/en), at [Civil Engineering Department](http://ce.metu.edu.tr/) of [Middle East Technical University](http://www.metu.edu.tr/) in 2020, where I also earned my B.S. in 2015. M.S. thesis title is Finite element implementation of a model to estimate the permanent strain of cyclically-loaded soil.
+I completed my M.S. in [Graduate School of Natural and Applied Sciences](https://fbe.metu.edu.tr/en), at [Civil Engineering Department](http://ce.metu.edu.tr/) of [Middle East Technical University](http://www.metu.edu.tr/) in 2020, where I also earned my B.S. in 2015. M.S. thesis title is [Finite element implementation of a model to estimate the permanent strain of cyclically-loaded soil.](http://etd.lib.metu.edu.tr/upload/12625488/index.pdf)
