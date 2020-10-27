@@ -18,19 +18,14 @@ organizations:
   url: "http://www.metu.edu.tr/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Research interests Geomechanics, Geotechnical Engineering and Computational Mechanics.
+#bio: 
 
 interests:
-- Geomechanics
 - Porous Materials
-- Geotechnical Engineering
-- Computational Mechanics
+- Solid Mechanics
 
 education:
   courses:
- # - course: PhD in Artificial Intelligence
- #   institution: Stanford University
- #   year: 2012
   - course: M.S. in Civil Engineering
     institution: Middle East Technical University
     year: 2020
