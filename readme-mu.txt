@@ -10,3 +10,9 @@ to edit footer go change: layouts-partials-site_footer.html
 *netlify hata verirse git submodule update --force --recursive --init --remote
 
 to change favicon, go to assets\images
+
+to edit website offline:
+    go to website directory
+    cmd
+    hugo server
+    open http://localhost:1313/ in your browser
