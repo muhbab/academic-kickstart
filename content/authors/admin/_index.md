@@ -17,15 +17,15 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Porous Materials
+- Solid Mechanics
 
 education:
   courses:
 #  - course: PhD in Civil Engineering
 #    institution: Middle East Technical University
-#    year: -
+#    year: - 
+# usttekini senesiz "-" seklinde yazinca hata veriyor
   - course: M.S. in Civil Engineering
     institution: Middle East Technical University
     year: 2020
