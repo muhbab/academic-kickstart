@@ -15,4 +15,4 @@ weight = 25
 
 +++
 
-My CV is available in  or form. (Last updated: June 6, 2020)
+My CV is available in [PDF](files/cv.pdf) form. (Modified for CE 620)
