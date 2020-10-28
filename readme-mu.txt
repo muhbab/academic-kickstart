@@ -8,3 +8,5 @@ to edit footer go change: layouts-partials-site_footer.html
     ![plot1](../../img/plot1.png)
 
 *netlify hata verirse git submodule update --force --recursive --init --remote
+
+to change favicon, go to assets\images
