@@ -23,9 +23,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Civil Engineering
-    institution: Middle East Technical University
-    year: -
+#  - course: PhD in Civil Engineering
+#    institution: Middle East Technical University
+#    year: -
   - course: M.S. in Civil Engineering
     institution: Middle East Technical University
     year: 2020
@@ -72,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed my M.S. in [Graduate School of Natural and Applied Sciences](https://fbe.metu.edu.tr/en), at [Civil Engineering Department](http://ce.metu.edu.tr/) of [Middle East Technical University](http://www.metu.edu.tr/) in 2020, where I also earned my B.S. in 2015. M.S. thesis title is [Finite element implementation of a model to estimate the permanent strain of cyclically-loaded soil.](http://etd.lib.metu.edu.tr/upload/12625488/index.pdf)
