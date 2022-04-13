@@ -18,7 +18,6 @@ organizations:
 
 interests:
 - Porous Materials
-- Solid Mechanics
 
 education:
   courses:
